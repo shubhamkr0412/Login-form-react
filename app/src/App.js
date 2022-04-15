@@ -3,9 +3,9 @@ import './App.css';
 
 function App() {
   return (
-    <div >
-      <h1>Login Form</h1>
-    </div>
+    <main className='app'>
+      <h1 style={{color:"red" , textAlign:"center"}}>Login Form</h1>
+    </main>
   );
 }
 
